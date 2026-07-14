@@ -1,5 +1,5 @@
 
-# 📊 Matplotlib — Data Visualization Mastery Guide
+# 📊 Matplotlib — Data Visualization 
 
 Welcome to the structured notes and practical tracking repository for **Matplotlib**[cite: 35]. This document serves as a comprehensive, beginner-friendly guide covering fundamental data charting, multi-plot layout structuring, line customizations, and statistical data distributions[cite: 35].
 
